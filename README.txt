@@ -1,0 +1,3 @@
+MatSjekk PWA v1
+Publisering uten PC: Pakk ut ZIP på telefonen. Gå til https://app.netlify.com/drop i Chrome, og last opp mappen MatSjekk-PWA dersom nettleseren støtter mappeopplasting. Alternativt opprett GitHub-repository fra telefonen, last opp filene og aktiver GitHub Pages (Settings > Pages > Deploy from branch). Åpne HTTPS-adressen i Chrome og velg Installer app / Legg til på startskjermen.
+Dette er en prototype, ikke medisinsk beslutningsstøtte. Skanning og OCR krever HTTPS og kamera-tillatelse. Første gang må bibliotekene lastes fra CDN. Produktdata krever internett. Ingen allergifri-garanti.
